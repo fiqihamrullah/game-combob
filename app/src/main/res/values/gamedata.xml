@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+      <string-array name="gamedata">   
+          <item>3D max : membuat objek tiga deimensi tampak realistis</item>
+<item>Android : pengelola sumber daya perangkat keras</item>
+<item>Avira : mendeteksi adanya virus</item>
+<item>Barcode : memberi kode ID suatu barang</item>
+<item>Barcode reader : membaca kode barcode</item>
+<item>Baterai : menyimpan tenaga listrik</item>
+<item>Bluetooth : melakukan transfer data</item>
+<item>Card reader : membaca kartu memori</item>
+<item>Cctv : kamera pengintai dalam segi keamanan</item>
+<item>Cd drive : pemutar kepingan CD</item>
+<item>Cd rom : media pembaca kepingan CD</item>
+<item>Cd rw : mengisi data ke kepingan CD</item>
+<item>Chip : mengakses dan memproses data</item>
+<item>Cpu : mengolah data dari perangkat lunak</item>
+<item>Dvd drive : pemutar kepingan DVD</item>
+<item>Dvd rom : media pembaca kepingan DVD</item>
+<item>Dvd rw : mengisi data ke kepingan DVD</item>
+<item>Earphone : alat pendengar suara</item>
+<item>Finger scan : membaca sensor sidik jari</item>
+<item>Firefox : mengakses informasi pada internet</item>
+<item>Flash : membuat animasi bergerak maupun game</item>
+<item>Flash disk : menyimpan data</item>
+<item>Floppy disk : menyimpan data dengan memori terbatas</item>
+<item>Gamepad : mengontrol gerak dan perintah game</item>
+<item>Handsfree : memutar musik tanpa menyentuh ponsel</item>
+<item>Hardisk : menyimpan data permanen dengan memori besar</item>
+<item>Headphone : alat pendengar suara</item>
+<item>Headset : mendengarkan suara dan berbicara dengan perangkat komunikasi</item>
+<item>Jack : menghubungkan satu rangkaian ke rangkaian lain dalam sistem</item>
+<item>Kabel data : menghubungkan jalur data</item>
+<item>Kabel ethernet : kabel jaringan yang menghubungkan satu komputer ke komputer lain</item>
+<item>Keyboard : alat input yang memiliki berbagai macam tombol fungsi</item>
+<item>Kipas : mendinginkan bagian bawah laptop</item>
+<item>Kursor : menunjukkan objek yang disorot mouse</item>
+<item>Laptop : membantu rutinitas pekerjaan manusia</item>
+<item>Laptop charger : mengisi daya baterai pada laptop</item>
+<item>Light pen : menggambar teknis/ grafis pada monitor</item>
+<item>Linux : sistem operasi komputer</item>
+<item>Mac : sistem operasi komputer </item>
+<item>Mic : menangkap gelombang suara menjadi arus listrik</item>
+<item>Micro sd : menyimpan data digital untuk gadget</item>
+<item>Micro sd adapter : menghubungkan micro SD dengan perangkat digital</item>
+<item>Microsoft access : membuat aplikasi database dalam waktu singkat</item>
+<item>Microsoft excel : mengolah data dan tabel berdasarkan fungsi/rumus</item>
+<item>Microsoft one note : sebagai organizer/notebook untuk menyimpan catatan</item>
+<item>Microsoft outlook : mengirim email dan newsgroup</item>
+<item>Microsoft power point : membuat presentasi laporan</item>
+<item>Microsoft share point : media berbagi informasi dengan web</item>
+<item>Microsoft word : membuat dokumen berupa laporan/makalah</item>
+<item>Modem : menghubungkan komputer ke jaringan internet</item>
+<item>Monitor touch screen : interaksi dengan layar monitor melalui sentuhan tangan</item>
+<item>Monitor : menampilkan tampilan pada komputer</item>
+<item>Motherboard : pusat pengendali semua komponen komputer</item>
+<item>Mouse : penggerak kursor</item>
+<item>Ms dos : mengorganisasikan kegiatan komputer</item>
+<item>Ms visual basic : mendesain dan membangun program berbasis windows</item>
+<item>Notepad : buku catatan digital</item>
+<item>Opera mini : penjelajah web untuk ponsel</item>
+<item>Paint : media pengolahan gambar</item>
+<item>Pdf : pengolah berkas dokumen</item>
+<item>Photosop : memodifikasi gambar/foto secara profesional</item>
+<item>Phpdesigner : merancang dan membangun sebuah website</item>
+<item>Power bank : men-charge gadget saat kehabisan daya</item>
+<item>Power supply : menyuplai arus listrik pada komputer</item>
+<item>Printer : mencetak dokumen dari komputer ke media kertas</item>
+<item>Processor : pusat pengendali komputer</item>
+<item>Projector : memproyeksikan gambar/video ke dinding/layar</item>
+<item>Ram : menyimpan data sementara pada komputer dalam kondisi hidup</item>
+<item>Recycle bin : tempat file dari komputer yang dihapus</item>
+<item>Rom : menyimpan data permanen pada komputer</item>
+<item>Scanner : memindai objek yang bisa berupa benda/gambar</item>
+<item>Snipping tool : memotong screen shot menjadi gambar</item>
+<item>Sound card : mengeluarkan dan merekam suara</item>
+<item>Speaker : mengubah gelombang listrik menjadi getaran suara</item>
+<item>Sql server : pengolahan database yg dirancang untuk aplikasi</item>
+<item>Ubuntu : sistem operasi komputer</item>
+<item>Vga : mengolah data graphis untuk ditampilkan pada layar monitor</item>
+<item>Virus : merusak data komputer</item>
+<item>Webcam : alat bantu komunikasi dengan cara video call/video conference</item>
+<item>Winamp : memutar musik dan video</item>
+<item>Windows : sistem operasi komputer</item>
+<item>Windows media player : memutar musik dan video</item>
+<item>Winrar : mengepak suatu file agar lebih ringkas</item>
+<item>Wireless : jaringan tanpa kabel dg menghantarkan gelombang elektromanetik</item>
+      </string-array>
+</resources>

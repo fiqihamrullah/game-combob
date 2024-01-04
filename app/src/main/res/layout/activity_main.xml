@@ -1,0 +1,40 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bgmenu"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity" >
+    
+        <ImageButton
+        android:id="@+id/imgBtnPlay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/imgVBtnOption"
+        android:layout_marginRight="17dp"
+        android:layout_toLeftOf="@+id/imgVBtnOption"
+        android:src="@drawable/btnplay" />
+
+    <ImageButton
+        android:id="@+id/imgVBtnOption"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:src="@drawable/btnoption" />
+
+    <ImageButton
+        android:id="@+id/imgVBtnExit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/imgVBtnOption"
+        android:layout_marginLeft="11dp"
+        android:layout_toRightOf="@+id/imgVBtnOption"
+        android:src="@drawable/btnexit" />
+
+
+
+</RelativeLayout>
